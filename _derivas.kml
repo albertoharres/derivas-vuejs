@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LINA BO.RD ZONA AUTÔNOMA   </name>
+    <description/>
+    
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>10</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-097138-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-097138-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1A237E-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1A237E-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1A237E-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1A237E-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1A237E-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-4E342E-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff2e344e</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-4E342E-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff2e344e</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-4E342E-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-4E342E-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-4E342E-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-558B2F-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-673AB7-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-673AB7-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-673AB7-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-673AB7-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-673AB7-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-795548-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-795548-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-795548-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-795548-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-795548-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-880E4F-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-880E4F-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-AFB42B-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-AFB42B-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-AFB42B-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-AFB42B-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-AFB42B-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-E65100-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-E65100-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<textarea>$[name]</textarea>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Pontos e Linhas </name>
+      <Placemark>
+        <name>Parque Augusta</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6490335,-23.5500308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praça Franklin Roosevelt</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6468283,-23.5488727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Amarela Quilombo Afroguarany</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6516813,-23.548925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buraco da Minhoca </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6462286,-23.5499782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Associação Teat(r)o Oficina Uzyna Uzona</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6411918,-23.555275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 6</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6413617,-23.5551803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anhangabaú</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6391881,-23.5478242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca Mário de Andrade</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.642054,-23.547428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MatilhaCultural</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6467541,-23.5467348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 12</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6477239,-23.5475236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Ouvidor 63</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6381425,-23.5494156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estúdio Lâmina</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6356754,-23.5448158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 15</name>
+        <styleUrl>#line-880E4F-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6472841,-23.5486891,0
+            -46.6485501,-23.549112,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 16</name>
+        <styleUrl>#line-880E4F-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6485501,-23.549112,0
+            -46.6486184,-23.5491354,0
+            -46.6484736,-23.5495141,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 17</name>
+        <styleUrl>#line-880E4F-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6484736,-23.5495141,0
+            -46.648204,-23.550253,0
+            -46.6480726,-23.5505554,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Slan </name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6466403,-23.5498448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAZ </name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6461576,-23.5499444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 18</name>
+        <styleUrl>#line-558B2F-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6466725,-23.5503243,0
+            -46.6466021,-23.5503058,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 19</name>
+        <styleUrl>#line-E65100-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6466034,-23.5503009,0
+            -46.6475952,-23.5473724,0
+            -46.6473699,-23.5474997,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 20</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6475549,-23.548013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 21</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6462702,-23.5499259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 22</name>
+        <styleUrl>#line-AFB42B-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6478421,-23.549353,0
+            -46.6388299,-23.5453992,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 23</name>
+        <styleUrl>#line-FFD600-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6478421,-23.549353,0
+            -46.647799,-23.5493358,0
+            -46.6477775,-23.549321,0
+            -46.6476086,-23.5491809,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 24</name>
+        <styleUrl>#line-795548-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6478299,-23.5493358,0
+            -46.6473551,-23.5491391,0
+            -46.6474128,-23.5491625,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 25</name>
+        <styleUrl>#line-4E342E-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6489403,-23.5496186,0
+            -46.6485085,-23.5504681,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 26</name>
+        <styleUrl>#line-673AB7-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6485507,-23.5495596,0
+            -46.6487143,-23.5498964,0
+            -46.6487123,-23.549902,0
+            -46.6485433,-23.5501233,0
+            -46.6485393,-23.5501232,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 27</name>
+        <styleUrl>#line-1A237E-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6493775,-23.549353,0
+            -46.6489189,-23.5498657,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 28</name>
+        <styleUrl>#line-097138-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6485574,-23.5495749,0
+            -46.6485507,-23.5495596,0
+            -46.6484977,-23.5494311,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bordas </name>
+    </Folder>
+    <Folder>
+      <name>Zonas</name>
+    </Folder>
+    <Folder>
+      <name>NYNHOS</name>
+    </Folder>
+    <Folder>
+      <name>NO CAR </name>
+    </Folder>
+    <Folder>
+      <name>Game Intervenções </name>
+    </Folder>
+    <Folder>
+      <name>Camada sem título</name>
+    </Folder>
+    <Folder>
+      <name>Sonho </name>
+    </Folder>
+    <Folder>
+      <name>Derivas</name>
+      <Placemark>
+        <name>X</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6462299,-23.5482638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sub Terrânea </name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.64693,-23.5493432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 3</name>
+        <styleUrl>#line-673AB7-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6462299,-23.5482638,0
+            -46.6468388,-23.5502284,0
+            -46.646651,-23.5505578,0
+            -46.6466939,-23.5500661,0
+            -46.6471606,-23.5487088,0
+            -46.6478097,-23.5476122,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Interzona </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6470507,-23.549021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 5</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6486037,-23.5492399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 6</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6482389,-23.5502234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 10</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6478071,-23.547622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 11</name>
+        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6478071,-23.547622,0
+            -46.6472841,-23.5486891,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Linha 9</name>
+        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6480726,-23.5505554,0
+            -46.6461576,-23.5499444,0
+            -46.6462648,-23.5494317,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 10</name>
+        <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6462648,-23.5494317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linha 11</name>
+        <styleUrl>#line-9C27B0-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -46.6462299,-23.5482638,0
+            -46.6477508,-23.5476219,0
+            -46.6469408,-23.5488317,0
+            -46.6467852,-23.5492152,0
+            -46.6472304,-23.5484186,0
+            -46.6472841,-23.5484579,0
+            -46.6466939,-23.5500661,0
+            -46.646651,-23.5505578,0
+            -46.6468442,-23.5501988,0
+            -46.6472626,-23.5504987,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 12</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6472626,-23.5504987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Camada sem título</name>
+    </Folder>
+  </Document>
+</kml>

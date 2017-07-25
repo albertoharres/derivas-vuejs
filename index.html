@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>derivas</title>
+    <style>
+      html, body {
+        height: 100%; margin: 0; padding: 0;
+      }
+      #page-title{
+        background-color: white;
+      }
+      #map {
+        height: 100%;
+      }
+      #contentWindow {
+        position: fixed;z-index: 99999;        
+        top: 10%; left: 10px;        
+        pointer-events: none;
+      }      
+      #contentWindow ul {
+        overflow: scroll;
+        max-height: 60vh;        
+      }
+      #contentWindow li {      
+        display: table;
+        pointer-events: auto;
+        max-width: 360px;
+      }
+      #contentWindow li h3 {
+        display: -webkit-inline-box;
+        background-color: white;
+        font-size: 16px;
+        margin: 0;
+      }
+      #contentWindow li ul p {        
+        font-size: 14px;
+        display: -webkit-inline-box;
+        margin: 5px;
+      }
+      p {
+        background-color: white;
+      }
+      textarea {
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <script src="geoxml3.js"></script>
+  <body>
+    <div id='contentWindow'>
+      <h2 id='page-title'>{{title}}</h2>
+      <div id="every-list">
+        <ul>
+          <li v-for="a in atomos" v-if="a.title == curPlace"><h3>{{ a.title }}</h3>
+            <ul v-if="isSelected">
+              <li><p v-for="(t, index) in a.texts" v-on:click="noise(t, index)">{{ t }}</p><br>
+              </li>
+              <textarea v-on:keyup.13="post(a.title)" :value="input" @input="update"></textarea>
+              <button v-on:click="post(a.title)">post</button>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <br>
+    <div id="map"></div>
+    <script src="script.js">
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyhUd8eqxAa2WqF8qhc5IRxu2jyCbueY8&callback=initMap">
+    </script>
+  </body>
+</html>

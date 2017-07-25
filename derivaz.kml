@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>derivaz</name>
+	<Placemark>
+		<name>Parque Augusta</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6490335,-23.5500308,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Praça Franklin Roosevelt</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6468283,-23.5488727,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Casa Amarela Quilombo Afroguarany</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6516813,-23.548925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Buraco da Minhoca </name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462286,-23.5499782,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Associação Teat(r)o Oficina Uzyna Uzona</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6411918,-23.555275,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 6</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6413617,-23.5551803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Anhangabaú</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6391881,-23.5478242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Biblioteca Mário de Andrade</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.642054,-23.547428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MatilhaCultural</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6467541,-23.5467348,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 12</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6477239,-23.5475236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Centro Cultural Ouvidor 63</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6381425,-23.5494156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Estúdio Lâmina</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6356754,-23.5448158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Slan </name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6466403,-23.5498448,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>TAZ </name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6461576,-23.5499444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 20</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6475549,-23.548013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 21</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462702,-23.5499259,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>X</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462299,-23.5482638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sub Terrânea </name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.64693,-23.5493432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Interzona </name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6470507,-23.549021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 5</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6486037,-23.5492399,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 6</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6482389,-23.5502234,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 10</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6478071,-23.547622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 10</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462648,-23.5494317,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponto 12</name>
+		<Point>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6472626,-23.5504987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6472841,-23.5486891,0
+-46.6485501,-23.549112,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6485501,-23.549112,0
+-46.6486184,-23.5491354,0
+-46.6484736,-23.5495141,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6484736,-23.5495141,0
+-46.648204,-23.550253,0
+-46.6480726,-23.5505554,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6466725,-23.5503243,0
+-46.6466021,-23.5503058,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6466034,-23.5503009,0
+-46.6475952,-23.5473724,0
+-46.6473699,-23.5474997,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6478421,-23.549353,0
+-46.6388299,-23.5453992,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6478421,-23.549353,0
+-46.647799,-23.5493358,0
+-46.6477775,-23.549321,0
+-46.6476086,-23.5491809,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6478299,-23.5493358,0
+-46.6473551,-23.5491391,0
+-46.6474128,-23.5491625,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6489403,-23.5496186,0
+-46.6485085,-23.5504681,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6485507,-23.5495596,0
+-46.6487143,-23.5498964,0
+-46.6487123,-23.549902,0
+-46.6485433,-23.5501233,0
+-46.6485393,-23.5501232,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6493775,-23.549353,0
+-46.6489189,-23.5498657,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6485574,-23.5495749,0
+-46.6485507,-23.5495596,0
+-46.6484977,-23.5494311,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462299,-23.5482638,0
+-46.6468388,-23.5502284,0
+-46.646651,-23.5505578,0
+-46.6466939,-23.5500661,0
+-46.6471606,-23.5487088,0
+-46.6478097,-23.5476122,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6478071,-23.547622,0
+-46.6472841,-23.5486891,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6480726,-23.5505554,0
+-46.6461576,-23.5499444,0
+-46.6462648,-23.5494317,0
+			</coordinates>
+		</LineString>
+	</Placemark>	<Placemark>
+		<name>track</name>
+		<Style>
+			<LineStyle>
+				<color>cc0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToGround</altitudeMode>
+			<coordinates>-46.6462299,-23.5482638,0
+-46.6477508,-23.5476219,0
+-46.6469408,-23.5488317,0
+-46.6467852,-23.5492152,0
+-46.6472304,-23.5484186,0
+-46.6472841,-23.5484579,0
+-46.6466939,-23.5500661,0
+-46.646651,-23.5505578,0
+-46.6468442,-23.5501988,0
+-46.6472626,-23.5504987,0
+			</coordinates>
+		</LineString>
+	</Placemark></Folder>
+</kml>
